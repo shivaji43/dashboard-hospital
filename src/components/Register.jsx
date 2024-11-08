@@ -14,7 +14,7 @@ export default function Register(){
         console.log(user)
         console.log("User Registered successfully")
     } catch (error) {
-        console.log(error.message   )
+        console.log(error.message)
     }
    }
    return(
